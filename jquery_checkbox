@@ -1,0 +1,8 @@
+$("[name=checkbox_name]").change(function (){
+  if ($(this).is(":checked"))
+    {
+      //if checked
+    } else {
+      //if not
+    }
+});
